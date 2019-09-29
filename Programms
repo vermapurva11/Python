@@ -1,0 +1,3 @@
+# How to write the hello world programm in python.
+A = ("Hello World!") #Intialize the value  or string  in variable.
+print(A)
