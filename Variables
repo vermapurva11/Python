@@ -1,0 +1,4 @@
+# Variables ( are used to store the values , stasrt with the lower case  or underscore it should be letter name case sensitive, don't overwrite)
+iq= 100 (# iq is the variable were we store the values i.e 100)
+Print(iq) ( # output = 100)
+
